@@ -26,6 +26,7 @@
   "dependencies": {
     "@kobalab/majiang-ai": "^1.0.13",
     "@kobalab/majiang-core": "file:../fever-majiang-core",
+    "@kobalab/tenhou-url-log": "^1.0.4",
     "jquery": "^3.7.1",
     "jquery-ui": "^1.14.1"
   }
